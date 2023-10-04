@@ -1,8 +1,12 @@
- div {
+ /* div {
     border: 1px solid red;
 }
+*/
 #president nelson {
     width: 1600px;
+}
+div{
+    background-color: darkgray;
 }
 h1{
     background-color: none;
@@ -24,7 +28,4 @@ img {
     text-align: center;
     display: block;
     margin:0 auto;
-}
-.background {
-    background-color: navy;
 }
