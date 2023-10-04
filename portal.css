@@ -1,5 +1,9 @@
-body {
-    background-color: beige;
+/* {
+    border: 1px solid red;
+}
+*/
+#content {
+    max-width: 1600px;
 }
 a {
     background-color: lightblue;
@@ -9,12 +13,39 @@ a {
     margin: 5px;
     text-align: center;
 }
+a:hover {
+    background-color: darkgray;
+    color: white;
+}
 nav {
     display: flex;
+    justify-content: center;
+}
+h1 {
+    font-size: 3em;
+    text-align: center;
+}
+img{
+    width: 50%;
+    text-align: center;
+    display: block;
+    margin:0 auto;
 }
 #primary {
     background-color: aqua;
 }
+p {
+    /* text-align: center; */
+    width: 47%;
+    margin:10px auto;
+    padding: 10px;
+}
 .background {
-    background-color: grey;
+    background-color: #ccc;
+}
+footer p {
+    width: 100%;
+    text-align: center;
+    background-color: darkgray;
+    color: white;
 }
