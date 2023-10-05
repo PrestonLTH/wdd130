@@ -23,6 +23,8 @@ h1 {
 }
 #education {
     color: white;
+    text-align: center;
+    font-size: 80%;
 }
 p {
     width: 55%;
@@ -50,4 +52,5 @@ img {
     text-align: center;
     margin: 5px;
     line-height: 2pt;
+    width: 85%;
 }
