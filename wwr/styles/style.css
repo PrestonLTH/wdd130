@@ -31,24 +31,23 @@ h4 {
 
 }
 .book {
-    background-color: black;
-    color: aqua;
-    text-decoration: none;
+    background-color: white;
+    color: black;
+    text-decoration: underline;
 
 }
 .book:hover {
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: blue;
 
 }
 .join {
-    background-color: black;
-    color: aqua;
-    text-decoration: none;
+    background-color: brown;
+    color: black;
+    text-decoration: underline;
 }
 .join:hover {
-    color: white;
-    text-decoration: none;
+    color: blue;
 }
 #hero-msg h1 {
     background-color: white;
@@ -95,7 +94,7 @@ footer a {
 
 }
 footer a:hover {
-    color: white;
+    color: blue;
 
 }
 footer p {
