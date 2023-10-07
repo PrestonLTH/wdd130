@@ -1,0 +1,112 @@
+div {
+    max-width: 1600px;
+}
+#content {
+    margin: 0 auto;
+}
+body {
+    background-color: #fcfbfb;
+    color: black;
+}
+header {
+    background-color: rgba(20,30,13, .7);
+    text-align: center;
+    color: white;
+}
+nav a {
+    color: aqua;
+    text-align: center;
+    text-decoration: none;
+}
+nav a:hover {
+    background-color:black;
+    color: #d9c2a3;
+}
+.home-title {
+    color: black;
+
+}
+h4 {
+    color: black;
+
+}
+.book {
+    background-color: black;
+    color: aqua;
+    text-decoration: none;
+
+}
+.book:hover {
+    background-color: black;
+    color: white;
+
+}
+.join {
+    background-color: black;
+    color: aqua;
+    text-decoration: none;
+}
+.join:hover {
+    color: white;
+    text-decoration: none;
+}
+#hero-msg h1 {
+    background-color: white;
+    text-align: center;
+
+}
+#hero-msg h4 {
+    background-color: white;
+    text-align: center;
+    color: black;
+}
+.button-box {
+    background-color: white;
+    text-align: center;
+
+}
+main section {
+    background-color: white;
+    text-align: center;
+    
+}
+#background {
+    background-color: rgba(20,30,13, .7);
+    height: 725px;
+}
+.msg {
+    background-color: brown;
+}
+.msg h2 {
+    color: black;
+
+}
+.msg p {
+    color:black;
+
+}
+footer {
+    background-color: white;
+    color: black;
+}
+footer a {
+    color: black;
+    text-decoration: none;
+
+}
+footer a:hover {
+    color: white;
+
+}
+footer p {
+    font-size: 1.2em;
+}
+footer p a:hover {
+    text-decoration: underline;
+}
+.logo {
+    width: 80px;
+}
+.icon {
+    width: 80px;
+}
