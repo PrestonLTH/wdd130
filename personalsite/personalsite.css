@@ -20,7 +20,7 @@ header {
 }
 
 .logo {
-    width: 80px; /* Adjust the size as needed */
+    width: 80px; 
     border-radius: 70px;
 }
 
@@ -46,9 +46,8 @@ nav a:hover {
     margin: 20px;
 }
 
-/* Stagger images using a class */
 .staggered-section {
-    margin-left: 50px; /* Adjust the margin as needed */
+    margin-left: 50px; 
 }
 
 .me_on_bike, .not_me_on_bike {
@@ -58,8 +57,8 @@ nav a:hover {
 }
 
 .me, .notme {
-    width: 100%; /* Make images fill their container */
-    border-radius: 8px; /* Add some border radius for a rounded look */
+    width: 100%; 
+    border-radius: 8px;
 }
 
 footer {
@@ -86,4 +85,21 @@ footer p a:hover {
 }
 footer .social img{
     padding-top: 15px;
+}
+
+/* subpage 1 css*/
+
+.mountains, .dirt_bikes_in_air {
+    flex: 1;
+    margin: 20px;
+    text-align: center;
+}
+
+.handlebars, .twobikes {
+    width: 100%;
+    border-radius: 8px;
+}
+.Why-Dirt-Biking {
+    text-align: center;
+    color: #333;
 }
