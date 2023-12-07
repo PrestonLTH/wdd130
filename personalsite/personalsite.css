@@ -103,6 +103,21 @@ footer .social img{
     text-align: center;
     color: #333;
 }
+
+/* subpage 2 css */
+.fastway_kickstand, .fastway_footpegs {
+    flex: 1;
+    margin: 20px;
+    text-align: center;
+}
+.kickstand, .footpegs {
+    width: 100%;
+    border-radius: 8px;
+}
+.Products {
+    text-align: center;
+    color: #333;
+}
 /* Dropdown Button */
 .dropbtn {
     background-color: grey;
